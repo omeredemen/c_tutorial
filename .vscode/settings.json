@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.sdf": "xml",
+        "ratio": "c",
+        "stdio.h": "c",
+        "functional": "c"
+    }
+}

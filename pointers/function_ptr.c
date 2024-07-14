@@ -48,22 +48,26 @@ float (*calculator())(float a, float b){
     }
 }
 
+int y = 6;
+int *getValue() {
+    return &y;
+}
+
 int main() {
-    // first example
+    // first example    
+    //////////////////////////////////////////////////////////////////////////
+    // void (*func_ptr) (int) = &func;
+    // // func_ptr = &func; // or it can be assigned like below
+    // // func_ptr = func;
 
-    
+    // func_ptr(3);
+    // // (*func_ptr)(3);
 
-    void (*func_ptr) (int) = &func;
-    // func_ptr = &func; // or it can be assigned like below
-    // func_ptr = func;
+    // float (*ptr) (float, float) = &add;
+    // // float result = (*ptr)(10,20); // dereferencing explicitly
+    // float result = ptr(10,20); // dereferencing implicitly
+    // printf("result is: %f\n", result);
 
-    func_ptr(3);
-    // (*func_ptr)(3);
-
-    float (*ptr) (float, float) = &add;
-    // float result = (*ptr)(10,20); // dereferencing explicitly
-    float result = ptr(10,20); // dereferencing implicitly
-    printf("result is: %f\n", result);
 
     // second example 
     //////////////////////////////////////////////////////////////////////////
@@ -77,6 +81,7 @@ int main() {
     printf("result is %.3f\n", result);
     
     */
+
 
     // third example
     //////////////////////////////////////////////////////////////////////////
@@ -92,6 +97,18 @@ int main() {
     printf("after adding the result is %f\n", operation(a, b));
     printf("after multiplying result is %f\n", result);
     */
-    
+
+
+    // third example (this example is about how does a function that returns pointer work)
+    //////////////////////////////////////////////////////////////////////////
+    int *x = getValue();
+    printf("%d\n", *x);
+
+    int z = *getValue();
+    printf("%d\n", z);
+
+    // 
+    //////////////////////////////////////////////////////////////////////////
+
     return 0;
 }

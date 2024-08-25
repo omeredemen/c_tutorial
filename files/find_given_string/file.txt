@@ -1,0 +1,668 @@
+Lineer Denklem Sistemleri ve Matrisler ile Gösterimi
+
+Elementer (Temel) Satır İşlemleri
+
+Satırca Denk Matrisler
+
+Lineer Denklem Sistemlerinin Çözüm Yöntemleri
+
+Gauss Yok Etme Metodu
+
+4x4 Gauss Yok Etme Metodu Örneği
+
+Gauss Jordan Yok Etme Metodu
+
+Lineer Denklem Sistemlerinin Çözüm Durumları
+
+Lineer Denklem Sistemlerinde Çözüm Durumları Örnek Soru (2x2)
+
+Lineer Denklem Sistemlerinde Çözüm Durumları Örnek Soru (3x3)
+
+Sonsuz Çözüme Sahip Lineer Denklem Sistemi Örneği
+
+Çözümü Olmayan Lineer Denklem Sistemi Örneği
+
+Eşelon Matris (Row Echelon Form)
+
+Lineer Denklem Sistemlerinin Eşelon Matris Forma Getirilerek Çözümü
+
+İndirgenmiş Eşelon Matrisi (Reduced Row Echelon Form)
+
+3x4 Lineer Denklem Sistemi Örnek Soru
+
+
+Homojen Lineer Denklem Sistemleri (Homogeneous System of Linear Equations)
+
+Homojen Lineer Denklem Sistemleri Örnek Soru-1
+
+Homojen Lineer Denklem Sistemleri Örnek Soru-2
+
+Homojen Lineer Denklem Sistemleri Örnek Soru-3
+
+Homojen Lineer Denklem Sistemleri Örnek Soru-4
+
+Homojen Lineer Denklem Sistemleri Örnek Soru-5
+
+Homojen Lineer Denklem Sistemleri Örnek Soru-6
+
+Homojen Lineer Denklem Sistemleri İngilizce Örnek Soru-1
+
+
+Matris Nedir ve Temel Matris Kavramları Nelerdir?
+
+Matris Çeşitleri
+
+Bir Matrisin Devriği (Transpose)
+
+Matrislerde Toplama, Çıkarma ve Çarpma
+
+Matrislerde İşlemler Örnek Soru-1
+
+Matrislerde İşlemler Örnek Soru-2
+
+Matrislerde İşlemler Örnek Soru-3
+
+Matrislerde İşlemler Örnek Soru-4
+
+
+Matrislerin Tersini Bulma (Elementer Satır İşlemleri Metodu)
+
+4x4 Matrisin Tersinini Bulma Örnek Soru
+
+2x2 Matrislerin Tersini Kısa Yoldan Bulma
+
+Ters Matris Özellikleri Örnek Soru-1
+
+Ters Matris Özellikleri Örnek Soru-2
+
+Ters Matris Özellikleri Örnek Soru-3
+
+Ters Matris Yardımıyla Lineer Denklem Sistemlerini Çözme
+
+Ters Matris Yardımıyla Lineer Denklem Sistemlerini Çözme Örnek Soru-1
+
+
+Elementer Matrisler
+
+Elementer Matrislerin Tersini Kısa Yoldan Bulma
+
+A=LU Ayrışımı (LU Decomposition)
+
+LU Ayrışımı Örnek Soru-1 (LU Decomposition) (Uzun Yol)
+
+LU Ayrışımı Örnek Soru-2 (LU Decomposition) (Kısa Yol)
+
+LU Ayrışımı ile Lineer Denklem Sistemlerini Çözme
+
+LU Ayrışımı ile Lineer Denklem Sistemlerini Çözme Örnek Soru-1
+
+PA=LU Ayrışımı (PA=LU Decomposition)
+
+PA=LU Ayrışımı Örnek Soru-1 (PA=LU Decomposition)
+
+PA=LU Ayrışımı Örnek Soru-2 (PA=LU Decomposition)
+
+PA=LU Ayrışımı Örnek Soru-3 (PA=LU Decomposition)
+
+PA=LU Ayrışımı ile Lineer Denklem Sistemlerini Çözme (PA=LU Decomposition)
+
+
+Determinant Hesaplama
+
+Determinant Özellikleri
+
+Determinant Özellikleri Ek Bilgi
+
+Determinant Özellikleri Örnek Soru-1
+
+Determinant Özellikleri Örnek Soru-2
+
+Determinant Özellikleri Örnek Soru-3
+
+Determinant Özellikleri Örnek Soru-4
+
+Determinant Özellikleri Örnek Soru-5
+
+Determinant Özellikleri Örnek Soru-6
+
+Determinant Özellikleri Örnek Soru-7
+
+Determinant Özellikleri Örnek Soru-8
+
+Determinant Özellikleri Örnek Soru-9
+
+Determinant Özellikleri Örnek Soru-10
+
+Bir Matrisin Determinantını Temel Satır İşlemleri İle Hesaplama
+
+Bir Matrisin Tersinin Varolma Şartları
+
+Minör ve Kofaktör Hesaplama
+
+Kofaktör ile Determinant Hesaplama
+
+
+Ek Matris (Adjoint Matrix)
+
+Ek Matris Yardımıyla Ters Matris Bulma
+
+Ek Matris Yardımıyla Ters Matris Bulma Örnek Soru-1
+
+Ek Matrise Ait Özellikler (Adjoint Matrix)
+
+Ek Matristen Kendisini Oluşturan Matrisi Bulma (Finding Original Matrix from Adj(A))
+
+Ek Matristen Kendisini Oluşturan Matrisi Bulma (3x3 Matris) Örnek Soru
+
+
+Cramer Metodu
+
+4x4 Lineer Denklem Sisteminde Cramer Metodu Örneği
+
+
+Permütasyon Matrisi (Permutation Matrix)
+
+Permütasyon Matrisi Örnek Soru-1 (Permutation Matrix)
+
+Permütasyon Matrisi Örnek Soru-2 (Permutation Matrix)
+
+Permütasyon Matrisi Örnek Soru-3 (Permutation Matrix)
+
+Permütasyon Matrisi Örnek Soru-4 (Permutation Matrix)
+
+
+Özdeğerler ve Özvektörler (eigen values-eigen vectors)
+
+2x2 Matrislerde Özdeğer ve Özvektör Bulma
+
+
+Yardımcı Bilgi : Rasyonel Kök Testi Metodu (Possible Rational Roots Test)
+
+Rasyonel Kök Testi Metodu Örnek Soru-1 (Possible Rational Roots Test)
+
+Rasyonel Kök Testi Metodu Örnek Soru-2 (Possible Rational Roots Test)
+
+Rasyonel Kök Testi Metodu Örnek Soru-3 (Possible Rational Roots Test)
+
+
+3x3 Matrislerde 3 Farklı Özdeğer İçin Özvektörleri Bulma
+
+3x3 Matrislerde Çift Katlı Özdeğer İçin Özvektörleri Bulma
+
+3x3 Matrislerde 3 Özdeğerin Aynı Olma Durumu
+
+
+Köşegenleştirme (Diagonalization)
+
+3x3 Matrisin Köşegenleştirilmesi (Diagonalization)
+
+Matrislerin Büyük Üslerini Bulma (Matrix Power)
+
+Matrislerin Büyük Üslerini Bulma Örnek Soru-1 (Matrix Power)
+
+Matrislerin Büyük Üslerini Bulma Örnek Soru-2 (Matrix Power)
+
+
+Algebraic Multiplicity of Eigen Value (Özdeğerlerin Tekrar Sayısı)
+
+Geometric Multiplicity of Eigen Value (Özdeğerlere Ait Özvektör Sayısı)
+
+Köşegenleştirme Örnek Soru-1 (Diagonalization)
+
+Köşegenleştirme Örnek Soru-2 (Diagonalization)
+
+Köşegenleştirme Örnek Soru-3 (Diagonalization)
+
+Köşegenleştirme Örnek Soru-4 (Diagonalization)
+
+
+Cayley Hamilton Teoremi Nedir?
+
+Cayley Hamilton Teoremi ile Matrislerin Tersini Bulma
+
+e^At Matrisi Bulma (Matrix Exponential) (Köşegenleştirme Metodu)
+
+3x3 Matrislerde e^At Matrisi Bulma (Köşegenleştirme Metodu)
+
+2x2 Matrislerde e^At Matrisini Bulma
+
+
+Özdeğer (Eigen value) ve Özvektör (Eigen vector) Örnek Soru-1
+
+Özdeğer (Eigen value) ve Özvektör (Eigen vector) Örnek Soru-2
+
+Özdeğer (Eigen value) ve Özvektör (Eigen vector) Örnek Soru-3
+
+Özdeğer (Eigen value) ve Özvektör (Eigen vector) Örnek Soru-4
+
+Özdeğer (Eigen value) ve Özvektör (Eigen vector) Örnek Soru-5
+
+Özdeğer (Eigen value) ve Özvektör (Eigen vector) Örnek Soru-6
+
+Özdeğer (Eigen value) ve Özvektör (Eigen vector) Örnek Soru-7
+
+Özdeğer (Eigen value) ve Özvektör (Eigen vector) Örnek Soru-8
+
+Özdeğer (Eigen value) ve Özvektör (Eigen vector) Örnek Soru-9
+
+Özdeğer (Eigen value) ve Özvektör (Eigen vector) Örnek Soru-10
+
+Özdeğer (Eigen value) ve Özvektör (Eigen vector) Örnek Soru-11
+
+
+Reel ve Kompleks MatrisNedir? (Real and Complex Matrix)
+
+Kompleks Matrisin Eşlenik Devriği (Conjugate Transpose)
+
+Üniter Matris (Unitary Matrix)
+
+Hermisyen Matrisler (Hermitian Matrices)
+
+Hermisyen Matrislerde Özdeğerler (Eigenvalues for Hermitian Matrices)
+
+İdempotent Matris (Idempotent Matrix)
+
+İdempotent Matrislerde Özdeğerler (Eigenvalues for Idempotent Matrices)
+
+
+Vektör Nedir?
+
+Vektörlerin Uzunluğunu Bulma ve Birim Vektör
+
+Birim Vektör Olmayan Vektörü Birim Vektör Yapma
+
+Birim Baz Vektörler (i , j , k)
+
+İç Çarpım (Dot Product or Scalar Product)
+
+İki Vektörün Diklik ve Paralellik Şartı
+
+İki Vektör Arasındaki Açıyı Bulma
+
+İki Vektör Arasındaki Uzaklık (Distance Between Two Vectors)
+
+Dik İzdüşüm Vektörünü Bulma (Projection Vektör)
+
+Bir Kümenin Gerdiği Altuzay Üzerine Dik İzdüşüm Vektörü Bulma (Orthogonal Projection)
+
+Orthogonal Projection onto a Span (İngilizce Örnek Soru)
+
+Dik İzdüşüm Yardımıyla Lineer Birleşim Katsayılarını Bulma
+
+En İyi Yaklaşım Teoremi (Best Approximation Theorem)
+
+Düzlemde Üçgenin Alanını Vektör Yardımıyla Bulma
+
+
+Vektör Uzayı (Vector Space)
+
+Alt Uzay (Subspace)
+
+Alt Uzay Örnek Sorular
+
+Alt Uzay Örnek Soru-1 (Subspace)
+
+Alt Uzay Örnek Soru-2(Subspace)
+
+Alt Uzay Örnek Soru-3 (Subspace)
+
+Alt Uzay Örnek Soru-4 (Subspace)
+
+Alt Uzay Örnek Soru-5 (Subspace)
+
+Lineer Birleşim
+
+Lineer Birleşim Örnek Soru-1
+
+Lineer Birleşim Örnek Soru-2
+
+Lineer Bağımlılık ve Lineer Bağımsızlık
+
+Lineer Bağımsızlık Örnek Soru-1
+
+Lineer Bağımsızlık Örnek Soru-2
+
+Lineer Bağımsızlık Örnek Soru-3
+
+Lineer Bağımsızlık Örnek Soru-4
+
+Lineer Bağımsızlık Örnek Soru-5
+
+Uzayı Germe (Span)
+
+Uzayı Germe (Span) Örnek Soru-1
+
+Uzayı Germe (Span) Örnek Soru-2
+
+Uzayı Germe (Span) Örnek Soru-3
+
+Uzayı Germe (Span) Örnek Soru-4
+
+Uzayı Germe (Span) Örnek Soru-5
+
+Uzayı Germe (Span) Örnek Soru-6
+
+Baz (Basis)
+
+Baz (Taban) Örnek Soru-1 (Basis)
+
+Baz (Taban) Örnek Soru-2 (Basis)
+
+Baz (Taban) Örnek Soru-3 (Basis)
+
+Baz (Taban) Örnek Soru-4 (Basis)
+
+Baz (Taban) Örnek Soru-5 (Basis)
+
+Baz (Taban) Örnek Soru-6 (Basis)
+
+Boyut (Dimension)
+
+Koordinat Vektörü
+
+Baz (Taban) Değiştirme (Change of Basis)
+
+Baz (Taban) Değiştirme Örnek Soru-1
+
+Baz (Taban) Değiştirme Örnek Soru-2
+
+Baz (Taban) Değiştirme Örnek Soru-3
+
+Baz (Taban) Değiştirme Örnek Soru-4
+
+Baz (Taban) Değiştirme Örnek Soru-5
+
+Bir Matrisin Satır Uzayının Bazını Bulma (Row Space)
+
+Bir Matrisin Sütun Uzayının Bazını Bulma (Column Space)
+
+Sütun Uzayının Boyutu Determinant İlişkisi Örnek Soru (Column Space)
+
+Bir Matrisin Rankını Bulma ve Yorumlama
+
+Boş Uzayın Bazı ve Boyutu (Nullspace and Nullity)
+
+Bir Matrisin Rankını Bulma ve Yorumlama Örnek Soru-1
+
+Bir Matrisin Rankını Bulma ve Yorumlama Örnek Soru-2
+
+Bir Matrisin Rankını Bulma ve Yorumlama Örnek Soru-3
+
+Bir Matrisin Rankını Bulma ve Yorumlama Örnek Soru-4
+
+Bir Matrisin Rankını Bulma ve Yorumlama Örnek Soru-5
+
+
+Doğrusal Dönüşümler (Linear Transformations)
+
+Doğrusal Dönüşüm Matrisi (Linear Transformation Matrix)
+
+Verilen Bir Baz İçin Doğrusal Dönüşüm Matrisi Bulma (Transition Matrix)
+
+Doğrusal Dönüşümün Çekirdeği (Kernel)
+
+Doğrusal Dönüşümün Görüntüsü (Range)
+
+Doğrusal Dönüşümün Boşluğu ve Rankı (Nullity and Rank)
+
+Doğrusal Dönüşüm Çözümlü Örnek Sorular
+
+Doğrusal Dönüşümlerin Birebir Olma Şartları (1-1 Linear Transformations)
+
+Doğrusal Dönüşümlerin Örten Olma Şartları (Onto Linear Transformations)
+
+Doğrusal Dönüşümlerin İzomorfik Olma Şartları (Isomorphism)
+
+Doğrusal Dönüşümlerin Tersini Bulma (Inverse of Linear Transformation)
+
+Doğrusal Dönüşümler Örnek Soru-1 (Linear Transformations)
+
+Doğrusal Dönüşümler Örnek Soru-2 (Linear Transformations)
+
+Doğrusal Dönüşümler Örnek Soru-3 (Linear Transformations)
+
+Doğrusal Dönüşümler Örnek Soru-4 (Linear Transformations)
+
+Doğrusal Dönüşümler Örnek Soru-5 (Linear Transformations)
+
+Doğrusal Dönüşümler Örnek Soru-6 (Linear Transformations)
+
+Doğrusal Dönüşümler Örnek Soru-7 (Linear Transformations)
+
+Doğrusal Dönüşümler Örnek Soru-8 (Linear Transformations)
+
+Doğrusal Dönüşümler Örnek Soru-9 (Linear Transformations)
+
+Doğrusal Dönüşümler Örnek Soru-10 (Linear Transformations)
+
+
+İki Vektörün Ortogonal (Dik) Olma Şartı
+
+Ortogonal Küme Nedir? (Orthogonal Set)
+
+Ortogonal Baz (Taban) Nedir? (Orthogonal Basis)
+
+Ortonormal Küme Nedir? (Orthonormal Set)
+
+Ortonormal Baz (Taban) Nedir? (Orthonormal Basis)
+
+Ortogonal Tümleyen (Orthogonal Complement)
+
+Gram Schmidt Metodu
+
+Gram-Shmidt Metodu Örnek Soru-1
+
+QR Ayrışımı (QR Factorization)
+
+QR Ayrışımında R Bulmada Q^t Kullanma (QR Factorization)
+
+QR Ayrışımı Örnek Soru-1 (QR Factorization)
+
+QR Ayrışımı Örnek Soru-2 (QR Factorization)
+
+
+Ortogonal Matrisler ve Özellikleri (Orthogonal Matrix)
+
+Ortogonal Matrisler Örnek Soru-1 (Orthogonal Matrix)
+
+Ortogonal Matrisler Örnek Soru-2 (Orthogonal Matrix)
+
+Ortogonal Matrisler Örnek Soru-3 (Orthogonal Matrix)
+
+Ortogonal Matrisler Örnek Soru-4 (Orthogonal Matrix)
+
+
+En Küçük Kareler Metodu (Least Squares Method)
+
+En Küçük Kareler Metodu ile Eğri Uydurma (Curve Fitting with Least Squares Method)
+
+En Küçük Kareler Metodu Örnek Soru-1 (Least Squares Method)
+
+En Küçük Kareler Metodu Örnek Soru-2 (Least Squares Method)
+
+En Küçük Kareler Metodu Örnek Soru-3 (Least Squares Method)
+
+
+İç Çarpım Uzayları (İnner Product Spaces)
+
+Standart İç Çarpım (Dot Product) (Standart İnner Product)
+
+İç Çarpıma Ait Ek Özellikler (İnner Product Spaces)
+
+İç Çarpım Uzaylarında Uzunluk ve Birim Vektör (Inner Product Spaces)
+
+İç Çarpım Uzaylarında İki Girdi Arası Uzaklık (Inner Product Spaces)
+
+İç Çarpım Uzaylarında İki Girdi Arasındaki Açı (Inner Product Spaces)
+
+İç Çarpım Uzaylarında Diklik (Orthogonality Inner Product Spaces)
+
+İç Çarpım Uzayları Örnek Soru-1 (Inner Product Spaces)
+
+İç Çarpım Uzayları Örnek Soru-2 (Inner Product Spaces)
+
+İç Çarpım Uzayları Örnek Soru-3 (Inner Product Spaces)
+
+İç Çarpım Uzayları Örnek Soru-4 (Inner Product Spaces)
+
+İç Çarpım Uzayları Örnek Soru-5 (Inner Product Spaces)
+
+
+Tekil Değer Ayrışımı (Singular Value Decomposition) (SVD)
+
+Tekil Değer Ayrışımı Örnek Soru-1 (Singular Value Decomposition) (SVD)
+
+Tekil Değer Ayrışımı Örnek Soru-2 (Singular Value Decomposition) (SVD)
+
+Tekil Değer Ayrışımı Örnek Soru-3 (Singular Value Decomposition) (SVD)
+
+
+Quadratic Form Nedir? (Quadratic Forms)
+
+Quadratic Formların Matris Gösterimi ve Bunun Amacı (Quadratic Forms)
+
+Quadratic Form Örnek Soru-1 (Quadratic Forms)
+
+Quadratic Form Örnek Soru-2 (Quadratic Forms)
+
+Quadratic Form Örnek Soru-3 (Quadratic Forms)
+
+
+Lineer Cebir İspat Soruları Örnek Soru-1
+
+Lineer Cebir İspat Soruları Örnek Soru-2
+
+Lineer Cebir İspat Soruları Örnek Soru-3
+
+Lineer Cebir İspat Soruları Örnek Soru-4
+
+Lineer Cebir İspat Soruları Örnek Soru-5
+
+Lineer Cebir İspat Soruları Örnek Soru-6
+
+Lineer Cebir İspat Soruları Örnek Soru-7
+
+Lineer Cebir İspat Soruları Örnek Soru-8
+
+
+İngilizce Lineer Cebir Soruları-1
+
+İngilizce Lineer Cebir Soruları-2
+
+İngilizce Lineer Cebir Soruları-3
+
+İngilizce Lineer Cebir Soruları-4
+
+İngilizce Lineer Cebir Soruları-5
+
+İngilizce Lineer Cebir Soruları-6
+
+İngilizce Lineer Cebir Soruları-7
+
+İngilizce Lineer Cebir Soruları-8
+
+İngilizce Lineer Cebir Soruları-9
+
+İngilizce Lineer Cebir Soruları-10
+
+İngilizce Lineer Cebir Soruları-11
+
+
+Vize ve Finalde Çıkabilecek Sorular-1
+
+Vize ve Finalde Çıkabilecek Sorular-2
+
+Vize ve Finalde Çıkabilecek Sorular-3
+
+Vize ve Finalde Çıkabilecek Sorular-4
+
+Vize ve Finalde Çıkabilecek Sorular-5
+
+Vize ve Finalde Çıkabilecek Sorular-6
+
+Vize ve Finalde Çıkabilecek Sorular-7
+
+Vize ve Finalde Çıkabilecek Sorular-8
+
+Vize ve Finalde Çıkabilecek Sorular-9
+
+Vize ve Finalde Çıkabilecek Sorular-10
+
+Vize ve Finalde Çıkabilecek Sorular-11
+
+Vize ve Finalde Çıkabilecek Sorular-12
+
+Vize ve Finalde Çıkabilecek Sorular-13
+
+Vize ve Finalde Çıkabilecek Sorular-14
+
+Vize ve Finalde Çıkabilecek Sorular-15
+
+Vize ve Finalde Çıkabilecek Sorular-16
+
+Vize ve Finalde Çıkabilecek Sorular-17
+
+Vize ve Finalde Çıkabilecek Sorular-18
+
+Vize ve Finalde Çıkabilecek Sorular-19
+
+Vize ve Finalde Çıkabilecek Sorular-20
+
+Vize ve Finalde Çıkabilecek Sorular-21
+
+Vize ve Finalde Çıkabilecek Sorular-22
+
+Vize ve Finalde Çıkabilecek Sorular-23
+
+Vize ve Finalde Çıkabilecek Sorular-24
+
+Vize ve Finalde Çıkabilecek Sorular-25
+
+Vize ve Finalde Çıkabilecek Sorular-26
+
+Vize ve Finalde Çıkabilecek Sorular-27
+
+Vize ve Finalde Çıkabilecek Sorular-28
+
+Vize ve Finalde Çıkabilecek Sorular-29
+
+Vize ve Finalde Çıkabilecek Sorular-30
+
+Vize ve Finalde Çıkabilecek Sorular-31
+
+Vize ve Finalde Çıkabilecek Sorular-32
+
+Vize ve Finalde Çıkabilecek Sorular-33
+
+Vize ve Finalde Çıkabilecek Sorular-34
+
+Vize ve Finalde Çıkabilecek Sorular-35
+
+Vize ve Finalde Çıkabilecek Sorular-36
+
+Vize ve Finalde Çıkabilecek Sorular-37
+
+Vize ve Finalde Çıkabilecek Sorular-38
+
+Vize ve Finalde Çıkabilecek Sorular-39
+
+Vize ve Finalde Çıkabilecek Sorular-40
+
+Vize ve Finalde Çıkabilecek Sorular-41
+
+Vize ve Finalde Çıkabilecek Sorular-42
+
+Vize ve Finalde Çıkabilecek Sorular-43
+
+Vize ve Finalde Çıkabilecek Sorular-44
+
+Vize ve Finalde Çıkabilecek Sorular-45
+
+Vize ve Finalde Çıkabilecek Sorular-46
+
+Vize ve Finalde Çıkabilecek Sorular-47
+
+
+Vize Sınav Örneği-1
+
+Final Sınav Örneği-1
